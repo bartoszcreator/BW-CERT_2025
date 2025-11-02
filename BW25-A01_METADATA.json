@@ -1,0 +1,46 @@
+{
+  "album_title_pl": "Który wschodzi wraz ze słońcem",
+  "album_title_en": "That Rises With the Sun",
+  "series": "BW-CERT SERIES 2025",
+  "catalogue_number": "BW25-A01",
+  "isrc_album": "PL-BW1-25-00001",
+  "release_date": "2025-11-02",
+  "duration": "12:56",
+  "tracks": [
+    {
+      "track_number": 1,
+      "title_pl": "Poranek w Domu Smaków",
+      "title_en": "Morning in the House of Flavours",
+      "isrc": "PL-BW1-25-00001",
+      "length": "03:19"
+    },
+    {
+      "track_number": 2,
+      "title_pl": "Światło nad Bałtykiem",
+      "title_en": "Light over the Baltic",
+      "isrc": "PL-BW1-25-00002",
+      "length": "03:19"
+    },
+    {
+      "track_number": 3,
+      "title_pl": "Krople na Tarasie",
+      "title_en": "Drops on the Terrace",
+      "isrc": "PL-BW1-25-00003",
+      "length": "03:42"
+    },
+    {
+      "track_number": 4,
+      "title_pl": "Cisza między rozmowami",
+      "title_en": "Silence between Conversations",
+      "isrc": "PL-BW1-25-00004",
+      "length": "02:16"
+    }
+  ],
+  "publisher": "Bartosz Jakóbczak — Bartosz Wydawnictwo",
+  "contact": "bartoszwydawnictwo@gmail.com",
+  "license_files": [
+    "LICENSE_USER_BW25-A01.pdf",
+    "LICENSE_COMMERCIAL_TEMPLATE.pdf"
+  ],
+  "philosophy": "light > form > human"
+}
