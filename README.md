@@ -46,7 +46,7 @@ This repository stands as a transparent archive for creative integrity and prove
 ---
 
 ### 🔗 External References
-- [Bandcamp — Bartosz Wydawnictwo](https://bartoszwydawnictwo.bandcamp.com)
+- [Bandcamp — Bartosz Jakóbczak](https://bartoszjakobczak.bandcamp.com)
 - [Email Contact](mailto:bartoszwydawnictwo@gmail.com)
 - [GitHub Profile — bartoszcreator](https://github.com/bartoszcreator)
 
