@@ -1,0 +1,11 @@
+{
+  "id": "LUX_M01_HELLO",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Pierwszy moduł demonstracyjny w ekosystemie LUX. Służy jako szablon i punkt startowy dla przyszłych klocków LUX.",
+  "author": "Bartosz Wydawnictwo",
+  "created": "2025-11-16",
+  "inputs": [],
+  "outputs": [],
+  "notes": "Ten moduł nie wykonuje żadnej automatyzacji — jest czystym szkieletem zgodnym z architekturą LUX."
+}
