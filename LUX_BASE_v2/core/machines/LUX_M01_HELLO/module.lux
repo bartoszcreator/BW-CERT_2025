@@ -1,0 +1,13 @@
+# LUX_M01_HELLO — pierwszy moduł LUX
+# Format: LUX-Lang v0.1 (wersja prototypowa)
+
+MODULE LUX_M01_HELLO:
+
+    INPUT: none
+    OUTPUT: text
+
+    ACTION:
+        SAY "Witaj! To jest pierwszy moduł demonstracyjny systemu LUX."
+        SAY "Działa poprawnie. Połączony z manifest.json."
+
+END MODULE
